@@ -1,4 +1,8 @@
-# envelope-frontend
+# Envelope Frontend
+
+## About
+
+This is a web page meant to be used with the [Envelope backend](https://github.com/Markcanfly/envelope)
 
 ## Project setup
 ```
@@ -15,5 +19,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
